@@ -1,0 +1,6 @@
+C
+Python
+MySQL
+HTML
+CSS
+GitHub

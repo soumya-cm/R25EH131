@@ -1,0 +1,1 @@
+This repository contains my learning work and practice in software development.
